@@ -1,3 +1,0 @@
-CREATE TABLE Pedido (
-    idProduto INT AUTO_INCREMENT PRIMARY KEY
-);
